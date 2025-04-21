@@ -8,6 +8,7 @@ public class Car {
 
     public Car(String modelName, String color, int maxSpeed, int currentSpeed) {
         this.modelName = modelName;
+        this.modelYear = modelYear;
         this.color = color;
         this.maxSpeed = maxSpeed;
         this.currentSpeed = currentSpeed;
